@@ -23,6 +23,7 @@ This project is a project meeting specific requirements using vanilla HTML5, CSS
 ## Features
 
 The page is responsive and primarily uses FlexBox. Semantic HTML5 has been applied. The spaceship tardis is moveable with arrow keys as well as with direction buttons.
+The page does not include shooting functionality at this point.
 
 ## Running the Project
 
