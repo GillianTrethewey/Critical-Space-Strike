@@ -7,7 +7,11 @@ https://GillianTrethewey.github.io/Critical-Space-Strike/
 ## LinkedIn Profile
 
 https://www.linkedin.com/in/gillian-trethewey/
+
+
 ![Screenshot 2022-12-27 at 5 33 31 PM](https://user-images.githubusercontent.com/7611178/209735275-39d93467-1cf2-418e-b63d-cd32906a2a1b.jpg)
+
+
 ![Screenshot 2022-12-27 at 5 34 17 PM](https://user-images.githubusercontent.com/7611178/209735276-a1ad7233-73ba-4140-a8cd-14470672a2c2.jpg)
 
 ## Overview
